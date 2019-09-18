@@ -16,3 +16,12 @@
 **Thoughts:** I've solved a basic IO question of data structure   
 
 **Link to work:** [Memorise ME - HackerEarth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/memorise-me/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/IO_count_numbers.py)
+
+
+### Day 3: September 15 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved a seating arrangement problem.
+
+**Link to work:** [Seating Arrangement - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/seating_arrangement.py)
