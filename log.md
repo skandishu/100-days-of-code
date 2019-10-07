@@ -34,3 +34,14 @@
 **Thoughts:** I've solved a Factorial problem.
 
 **Link to work:** [Factorial! - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/factorial!.py)
+
+
+### Day 5: September 17 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved a 1D array problem.
+
+**Link to work:** [Charged Up Array - HackerEarth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/charged-up-array-f35a5e23/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/Data%20Structure/charged_up_array.py)
+
+
