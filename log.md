@@ -81,3 +81,12 @@
 **Link to work:** [Micro And Array Update - HackerEarth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/micro-and-array-update/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/Data%20Structure/micro_and_array_update.py)
 
 
+### Day 10: September 22 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Find Product problem.
+
+**Link to work:** [Find Product - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-product/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/find_product.py)
+
+
