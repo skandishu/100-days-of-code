@@ -60,6 +60,6 @@
 
 **Thoughts:** I've solved Palindromic String problem.
 
-**Link to work:** [Monk And Welcome problem - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/palindromic_string.py)
+**Link to work:** [Palindromic String - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/palindromic_string.py)
 
 
