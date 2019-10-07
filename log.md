@@ -54,3 +54,12 @@
 **Link to work:** [Monk And Welcome problem - HackerEarth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-welcome-problem/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/monk_and_welcome_problem.py)
 
 
+### Day 7: September 19 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved Palindromic String problem.
+
+**Link to work:** [Monk And Welcome problem - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/palindromic_string.py)
+
+
