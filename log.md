@@ -108,3 +108,12 @@
 **Link to work:** [ Monk And Power Of Time - HackerEarth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-power-of-time/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/Data%20Structure/monk_and_power_of_time.py)
 
 
+### Day 13: September 25 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Long ATM Queue problem.
+
+**Link to work:** [ Long ATM Queue - HackerEarth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/long-atm-queue-3/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/Data%20Structure/long_atm_queue.py)
+
+
