@@ -99,3 +99,12 @@
 **Link to work:** [Polygon Possibility - HackerEarth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/polygon-possible/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/Data%20Structure/polygon_possibility.py)
 
 
+### Day 12: September 24 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Monk And Power Of Time problem.
+
+**Link to work:** [ Monk And Power Of Time - HackerEarth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-power-of-time/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/Data%20Structure/monk_and_power_of_time.py)
+
+
