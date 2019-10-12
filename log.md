@@ -171,7 +171,7 @@
 **Link to work:** [ Print The Numbers - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/print-the-numbers/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/print_the_number.py)
 
 
-### Day 19: October 1 2019
+### Day 19: October 2 2019
 
 **Today's Progress**: I'm continuing my coding practice on HackerEarth
 
