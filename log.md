@@ -117,3 +117,57 @@
 **Link to work:** [ Long ATM Queue - HackerEarth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/long-atm-queue-3/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/Data%20Structure/long_atm_queue.py)
 
 
+### Day 14: September 26 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved Cost of Balloons problem.
+
+**Link to work:** [Cost of Balloons - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/mojtaba-prepares-contest-29b2a044/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/cost_of_balloons.py)
+
+
+### Day 15: September 27 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Teddy and Tweety problem.
+
+**Link to work:** [Teddy and Tweety - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/teddy-and-tweety/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/teddy_and_tweety.py)
+
+
+### Day 16: September 28 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  A. Moment problem.
+
+**Link to work:** [A. Moment - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/a-movement-1/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/a._moment.py)
+
+
+### Day 17: September 29 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Back to School problem.
+
+**Link to work:** [Back to School - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/back-to-school-1/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/back_to_school.py)
+
+
+### Day 18: September 30 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Doctor's Secret problem.
+
+**Link to work:** [ Doctor's Secret - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/doctors-secret/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/doctor's_secret.py)
+
+
+### Day 19: October 1 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Print The Numbers problem.
+
+**Link to work:** [ Print The Numbers - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/print-the-numbers/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/print_the_number.py)
+
+
