@@ -180,3 +180,21 @@
 **Link to work:** [ Can You Guess - HackerEarth](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/can-you-guess/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/Basic%20Math/can_you_guess.py)
 
 
+### Day 21: October 3 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Count Divisors problem.
+
+**Link to work:** [ Count Divisors - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/count-divisors/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/count_divisors.py)
+
+
+### Day 22: October 4 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Toggle String problem.
+
+**Link to work:** [ Toggle String - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/modify-the-string/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/toggle_string.py)
+
+
