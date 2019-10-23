@@ -207,3 +207,66 @@
 **Link to work:** [ Roy And Profile Picture - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/roy_and_profile_picture.py)
 
 
+### Day 24: October 6 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  e-maze-in problem.
+
+**Link to work:** [ e-maze-in - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/e-maze-in-1aa4e2ac/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/e_maze_in.py)
+
+
+### Day 25: October 7 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Bricks Game problem.
+
+**Link to work:** [ Bricks Game - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/bricks-game-5140869d/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/bricks_game.py)
+
+
+### Day 26: October 8 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Lift Queries problem.
+
+**Link to work:** [ Lift Queries - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/lift-queries/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/lift_queries.py)
+
+
+### Day 27: October 9 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Two String problem.
+
+**Link to work:** [ Two String - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/two-strings-4/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/two_strings.py)
+
+
+### Day 28: October 10 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Ali and Helping innocent people problem.
+
+**Link to work:** [ Ali and Helping innocent people - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/ali_and_helping_innocent_people.py)
+
+
+### Day 29: October 11 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Duration problem.
+
+**Link to work:** [ Duration - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/duration/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/duration.py)
+
+
+### Day 30: October 12 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Book Of Potion Making problem.
+
+**Link to work:** [ Book Of Potion Making - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/sum-it-if-you-can-4867f851/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/book_of_potion_making.py)
+
+
