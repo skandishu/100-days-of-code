@@ -198,3 +198,12 @@
 **Link to work:** [ Toggle String - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/modify-the-string/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/toggle_string.py)
 
 
+### Day 23: October 5 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Roy And Profile Picture problem.
+
+**Link to work:** [ Roy And Profile Picture - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/roy_and_profile_picture.py)
+
+
