@@ -265,8 +265,8 @@
 
 **Today's Progress**: I'm continuing my coding practice on HackerEarth
 
-**Thoughts:** I've solved  Book Of Potion Making problem.
+**Thoughts:** I've solved  Aman & Mr.Sharma problem.
 
-**Link to work:** [ Book Of Potion Making - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/sum-it-if-you-can-4867f851/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/book_of_potion_making.py)
+**Link to work:** [ Aman & Mr.Sharma - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/aman-mrsharma/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/aman_and_mr_sharma.py)
 
 
