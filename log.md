@@ -279,7 +279,7 @@
 **Link to work:** [ Goki and His Breakup - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/tds-and-his-breakup/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/goki_and_his_breakup.py)
 
 
-### Day 29: October 11 2019
+### Day 32: October 14 2019
 
 **Today's Progress**: I'm continuing my coding practice on HackerEarth
 
@@ -288,7 +288,7 @@
 **Link to work:** [ Life the Universe and Everything - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/life-the-universe-and-everything/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/life_the_universe_and_everything.py)
 
 
-### Day 30: October 12 2019
+### Day 33: October 15 2019
 
 **Today's Progress**: I'm continuing my coding practice on HackerEarth
 
