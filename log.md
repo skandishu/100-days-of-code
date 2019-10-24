@@ -270,3 +270,30 @@
 **Link to work:** [ Aman & Mr.Sharma - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/aman-mrsharma/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/aman_and_mr_sharma.py)
 
 
+### Day 31: October 13 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Goki and His Breakup problem.
+
+**Link to work:** [ Goki and His Breakup - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/tds-and-his-breakup/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/goki_and_his_breakup.py)
+
+
+### Day 29: October 11 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Life the universe and Everything problem.
+
+**Link to work:** [ Life the Universe and Everything - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/life-the-universe-and-everything/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/life_the_universe_and_everything.py)
+
+
+### Day 30: October 12 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved  Ladderophilla problem.
+
+**Link to work:** [ Ladderophilla - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/ladderophilia/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/ladderophihlla.py)
+
+
