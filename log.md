@@ -315,3 +315,12 @@
 **Link to work:** [ Divisibility - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisible-or-not-81b86ad7/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/divisibility.py)
 
 
+### Day 36: October 18 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved Divisible problem.
+
+**Link to work:** [ Divisible - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/divisible.py)
+
+
