@@ -297,3 +297,12 @@
 **Link to work:** [ Ladderophilla - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/ladderophilia/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/ladderophihlla.py)
 
 
+### Day 34: October 16 2019
+
+**Today's Progress**: I'm continuing my coding practice on HackerEarth
+
+**Thoughts:** I've solved Char sum problem.
+
+**Link to work:** [ Char sum - HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/char-sum-2d3a6ab5/) [- solution](https://github.com/skandishu/Coding/blob/master/hackerearth/basic%20of%20IO/char_sum.py)
+
+
